@@ -3,13 +3,13 @@ Web Lession 1 - Install All The Things
 
 This lesson is fairly boring, but necessary: installing things.
 
-**Estimated time** - 15-30 min
+**Estimated Time** - 15-30 min
 
 [TOC]
 
 ## Prereqs
 
-None, but the more software you have installed the faster this will go.
+- None, but the more software you have installed the faster this will go.
 
 ## Markdown
 
