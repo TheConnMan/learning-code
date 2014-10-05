@@ -41,12 +41,9 @@ HTML is all about tags. If you just type a bunch of words into your new HTML fil
 
 Those are some pretty standard tags which mark your page as an HTML page. You'll notice each tag has a closing tag (the tag with a **/**). All tags which get opened must be closed. The one exception is tags that look like `<this />` which are empty tags.
 
-Start adding additional things inbetween the `<body></body>` tags. Play around with the following tags. They are very common and will get you 80% there in terms of useful HTML tags.
+Start adding additional things in between the `<body></body>` tags. Play around with the following tags. They are very common and will get you 80% there in terms of useful HTML tags.
 
-- `<h1>`
-- `<h2>`
-- ...
-- `<h6>`
+- `<h1>`, `<h2>`, ...`<h6>`
 - `<div>`
 - `<a>`
 - `<b>`
@@ -81,7 +78,7 @@ Replicate as much of this rendered Markdown as possible. Copying and pasting the
 
 And by the way...
 
-**How** ++do++ *you* like these
+**How** ++you++ *like* dem
 
 | Apples | Color |
 |--------|--------|
