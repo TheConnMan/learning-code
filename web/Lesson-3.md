@@ -43,7 +43,7 @@ Nothing happened, right? That's because we need to open up the console to see wh
 
 ### Comments
 
-Comments in code don't get executed. I use them a little below, so I figured I should mention them. Inline comments use `//` and block comments use `/* */`. For example:
+Comments in code don't get executed. You can use comments to add explanations of your code for other humans to read, or to hide code you don't want to execute. I use them a little below, so I figured I should mention them. Inline comments use `//` and block comments use `/* */`. For example:
 
 ```
 console.log('Hello'); // I won't get executed
@@ -151,12 +151,12 @@ You will probably find that some of the answers make sense and some of them don'
 Write a function for each of the following:
 
 - A function which logs 'Even' if the input is even and 'Odd' if the input is odd
-  - **Hint:** Look up **if statements**
+  - **Hint:** Look up **if** statements
 - A function which does the same as the previous function but logs 'Neither' if the input is not a number
   - **Hint:** Look up **typeof**
 - Create a function which takes in a number and logs each number between 0 and the input
-  - **Hint:** Look up **for loops**
+  - **Hint:** Look up **for** loops
 
 ## End
 
-You should now know the basics of JavaScript and have an understanding of functions, variables, and how to use them. You should also know a little about **if statements** and **for loops**. We'll touch on these a little in the next lesson.
+You should now know the basics of JavaScript and have an understanding of functions, variables, and how to use them. You should also know a little about **if** statements and **for** loops. We'll touch on these a little in the next lesson.
